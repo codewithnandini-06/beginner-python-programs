@@ -1,4 +1,3 @@
-# beginner-python-programs
 <h1 align="center">Hi 👋, I'm Nandini Joshi</h1>
 <h3 align="center">"Mathematics & Computer Enthusiast | Quick Learner | Exploring Coding, Data Science & Cryptography"</h3>
 
@@ -14,16 +13,13 @@
 
 - 💬 Ask me about **Mathematics (Honors topics) || Basics of Python Programming|| My experience in the Arcade Facilitator Program**
 
-- 📫 How to reach me **email-nandini.joshi19122006@gmail.com || linkedin-linkedin.com/in/nandini-joshi-b6b258316**
-
-- 📄 Know about my experiences [Availbale on Request!!](Availbale on Request!!)
+- 📫 How to reach me **email-nandini.joshi19122006@gmail.com**
 
 - ⚡ Fun fact **“I can solve math problems faster than I solve the Rubik’s cube!”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nandini joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini joshi" height="30" width="40" /></a>
-<a href="https://instagram.com/na_ndini_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="na_ndini_19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/nandini-joshi-b6b258316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nandini-joshi-b6b258316" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
